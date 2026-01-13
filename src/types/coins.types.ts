@@ -1,0 +1,1 @@
+// Coins types

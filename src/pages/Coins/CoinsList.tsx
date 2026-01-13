@@ -1,0 +1,1 @@
+// CoinsList page
