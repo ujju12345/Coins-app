@@ -9,7 +9,7 @@ import HealthProfiles from "../pages/Users/HealthProfiles";
 import ProtectedRoute from "./ProtectedRoute";
 import PublicRoute from "./PublicRoute";
 import DispatchQueue from "../components/dispatches/DispatchQueue";
-import Tracking from "../components/dispatches/tracking";
+import Tracking from "../components/dispatches/Tracking";
 import OrderPending from "../components/orders/OrderPending";
 import AllOrders from "../components/orders/AllOrders";
 import OrderHistory from "../components/orders/OrderHistory";
